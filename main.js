@@ -1,6 +1,5 @@
 import completeIcon from "./components/taskComplete.js";
 import iconDelete from "./components/deleteTask.js";
-
 const ADD_BTN = document.querySelector("[data-form-btn]");
 
 const CREATE_TASK = (e) => {
